@@ -31,8 +31,3 @@ Email Me 👉 ✉️ **darpandhande@gamil.com** For Collaboration/Project or Any
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=darpandhande-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=darpandhande-ai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
